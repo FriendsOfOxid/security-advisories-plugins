@@ -1,0 +1,15 @@
+{
+  "name": "friendsofoxid/security-advisories",
+  "description": "Security advisory metapackage for plugins in OXID eShop projects",
+  "type": "metapackage",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "D3 team",
+      "role": "maintainer",
+      "email": "support@shopmodule.com"
+    }
+  ],
+  "conflict": {
+  }
+}
