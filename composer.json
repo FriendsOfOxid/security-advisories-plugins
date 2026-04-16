@@ -11,6 +11,8 @@
     }
   ],
   "conflict": {
-    "endereco/endereco-oxid6-client": ">=4.0 <=4.5.4"
+    "endereco/endereco-oxid6-client": ">=4.0 <=4.5.4",
+    "fatchip-gmbh/oxid-klarna-6": ">=5.0 <=5.8.1",
+    "fatchip-gmbh/oxid-klarna-7": ">=1.0 <=1.3.0"
   }
 }
