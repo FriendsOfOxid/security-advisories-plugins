@@ -14,6 +14,14 @@
     "endereco/endereco-oxid6-client": ">=4.0 <=4.5.4",
     "fatchip-gmbh/oxid-klarna-6": ">=5.0 <=5.8.1",
     "fatchip-gmbh/oxid-klarna-7": ">=1.0 <=1.3.0",
-    "fatchip-gmbh/plugin-oxid7-stats": ">=1.0 <=1.1.6"
+    "fatchip-gmbh/plugin-oxid7-stats": ">=1.0 <=1.1.6",
+    "oxid-esales/amazon-pay-module": ">=1.0 <=1.6.1 || >=2.0 <=2.1.8 || >=3.0 <=3.1.7",
+    "oxid-esales/stripe-module": ">=1.0 <=1.0.7 || >=2.0 <=2.0.3",
+    "oxid-esales/unzer": ">=1.0 <=1.2.7 || >=2.0 <=2.2.5",
+    "oxid-professional-services/easycredit-module": ">=3.0 <=3.0.9 || >=4.0 <=4.0.1",
+    "oxid-solution-catalysts/adyen-module": ">=1.0 <=1.1.10 || >=2.0 <=2.1.8",
+    "oxid-solution-catalysts/paypal-module": ">=2.0 <=2.8.1 || >=3.0 <=3.7.1",
+    "payone-gmbh/oxid-6": ">=1.0 <=1.13.0",
+    "payone-gmbh/oxid-7": ">=1.0 <=1.3.0"
   }
 }
