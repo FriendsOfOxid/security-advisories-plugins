@@ -11,5 +11,6 @@
     }
   ],
   "conflict": {
+    "endereco/endereco-oxid6-client": ">=4.0 <=4.5.4"
   }
 }
