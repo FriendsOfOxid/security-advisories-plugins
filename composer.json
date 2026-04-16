@@ -1,5 +1,5 @@
 {
-  "name": "friendsofoxid/security-advisories",
+  "name": "friendsofoxid/security-advisories-plugins",
   "description": "Security advisory metapackage for plugins in OXID eShop projects",
   "type": "metapackage",
   "license": "MIT",
