@@ -22,6 +22,7 @@
     "oxid-solution-catalysts/adyen-module": ">=1.0 <=1.1.10 || >=2.0 <=2.1.8",
     "oxid-solution-catalysts/paypal-module": ">=2.0 <=2.8.1 || >=3.0 <=3.7.1",
     "payone-gmbh/oxid-6": ">=1.0 <=1.13.0",
-    "payone-gmbh/oxid-7": ">=1.0 <=1.3.0"
+    "payone-gmbh/oxid-7": ">=1.0 <=1.3.0",
+    "oxid-esales/b2b-approval-procedure-module": "6.0.0 || 7.0.0 || 7.1.0 || 7.2.0 || 7.3.0 || 7.4.0"
   }
 }
